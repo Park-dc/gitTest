@@ -17,9 +17,11 @@ public String newMethod(){
 
 public String newMethod2(){
 새로운 내용 추가
+변경 변경
 }
 
 
 public String newMethod4(){
 새로운 내용 추가
+변경변경
 }
