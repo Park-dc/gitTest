@@ -21,6 +21,8 @@ public String newMethod2(){
 
 
 public String newMethod4(){
-새로운 내용 추가
+새로운 내용 추가. --> New Branch, 또추가
 }
+
 기존내용 변경
+=======
