@@ -19,3 +19,8 @@ public String newMethod(){
 public String newMethod2(){
 새로운 내용 추가
 }
+
+------------------------------
+public String newMethod3(){
+new branch
+}
