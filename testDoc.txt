@@ -20,7 +20,12 @@ public String newMethod2(){
 새로운 내용 추가
 }
 
+<<<<<<< HEAD
 ------------------------------
 public String newMethod3(){
 new branch
 }
+=======
+*************************
+기존 branch 변경사항
+>>>>>>> d511350dc3ca6544d279cf86f7e4790bb6f27a7b
