@@ -17,5 +17,4 @@ public String newMethod(){
 
 public String newMethod2(){
 새로운 내용 추가
-벼녁ㅇ
 }
